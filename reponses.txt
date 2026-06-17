@@ -69,7 +69,7 @@ Exercice 6 - Diagnostic
 2. Cause (ce que charger_catalogue fait de la donnée présente dans le
    fichier mais ignorée à la relecture) :
 
->>>elle ne lit pas la première clé du disctionnaire mais recrée à chaque fois un
+>>>elle ne lit pas la première clé du dictionnaire mais recrée à chaque fois un
 un objet de la classe Livre.
 
 
